@@ -1,0 +1,10 @@
+C:\Users\dunla\Desktop\WildcatUniversityData\bin\Debug\WildcatUniversityData.dacpac
+C:\Users\dunla\Desktop\WildcatUniversityData\bin\Debug\WildcatUniversityData.dll
+C:\Users\dunla\Desktop\WildcatUniversityData\bin\Debug\WildcatUniversityData.pdb
+C:\Users\dunla\Desktop\WildcatUniversityData\obj\Debug\WildcatUniversityData.sqlprojAssemblyReference.cache
+C:\Users\dunla\Desktop\WildcatUniversityData\obj\Debug\WildcatUniversityData.dll
+C:\Users\dunla\Desktop\WildcatUniversityData\obj\Debug\WildcatUniversityData.pdb
+C:\Users\dunla\Desktop\WildcatUniversityData\obj\Debug\Model.xml
+C:\Users\dunla\Desktop\WildcatUniversityData\obj\Debug\refactor.xml
+C:\Users\dunla\Desktop\WildcatUniversityData\obj\Debug\postdeploy.sql
+C:\Users\dunla\Desktop\WildcatUniversityData\obj\Debug\predeploy.sql
